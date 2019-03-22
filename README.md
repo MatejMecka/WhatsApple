@@ -16,14 +16,14 @@ There are 10 Apple varieties I have taught it:
 * Red Delicious
 * Bonus: I also taught it to differentiate between the Apple Logo, and an actual apple.
 
-![Camera UI](CAMERA-ui.PNG)
-![Playground UI](ui-ui.PNG)
+![Camera UI](screenshots/CAMERA.PNG)
+![Playground UI](screenshots/UI.PNG)
 
 ## How to use
 
 WhatsApple must be used on Swift Playgrounds for iPad. It has been tested on the 2017 10.5-inch iPad Pro, and it works best in landscape mode.
 
-You have to press the Camera button  ![Camera button](camera-small.png)  and take a picture of an apple. If you don't have an Apple around you can take a picture of the Apple Logo to see how this playground works. It will also work with a picture of an apple on a screen, but wont be as accurate.
+You have to press the Camera button and take a picture of an apple. If you don't have an Apple around you can take a picture of the Apple Logo to see how this playground works. It will also work with a picture of an apple on a screen, but wont be as accurate.
 
 It works most accurately when taking a picture of a single apple, on a white desk. Taking pictures of apples in a group, or with a lot of stuff in the background will still work fine, but wont be as accurate.
 
