@@ -34,7 +34,7 @@
  
  UIKit and Playground Support is used for UI and Playground stuff. AVFoundation is being used to allow interaction with the device camera. Vision and Core ML is used to classify the apples. Image I/O is being used to handle the image orientation. I created the AppleDetector machine learning model on my Macbook using Create ML. I used a total of 235 pictures of Apples, and I integrated this model with Core ML and Vision.
  
- My machine learning model is not super accurate, it has a success rate of 58%. Far better than the average person, but not as good as an Apple expert. It can almost perfectly classify red apples, green apples, golden apples and the Apple logo but it is not as good when classifying the individual red apples. This is mainly due to how similar most red apples look and the difficulty in collecting many pictures of apples.
+ My machine learning model is not super accurate, it has a success rate of 58%. Far better than the average person, but not as good as an Apple expert. It can almost perfectly classify red apples, green apples, golden apples and the Apple logo but it is not as good when classifying the individual red apples. This is mainly due to how similar most red apples look and the difficulty in collecting many pictures of apples. Also note that if you take a picture of a random thing, it will still classify it as an apple even if there is no apple in the picture. This is because it is not trained to classify non-apples.
 */
 
 // I created AppleDetector.mlmodelc with Create ML
