@@ -2,7 +2,7 @@
 
 [![Swift Playgrounds 2.2](https://img.shields.io/badge/Swift%20Playgrounds-2.2-brightgreen.svg)](https://developer.apple.com/swift-playgrounds/release-notes/) [![Swift 4.2](https://img.shields.io/badge/Swift-4.2-brightgreen.svg)](https://swift.org/blog/swift-4-2-released/)
 
-WhatsApple is a Swift Playground that uses machine learning to classify pictures of apples. Here is an [iOS version](https://github.com/gg2001/WhatsApple-iOS) of it.
+WhatsApple is a Swift Playground that uses machine learning to classify pictures of apples. Here is an [iOS app version](https://github.com/gg2001/WhatsApple-iOS) of this playground.
 
 There are 10 Apple varieties I have taught it:
 
